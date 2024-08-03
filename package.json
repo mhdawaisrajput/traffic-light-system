@@ -1,0 +1,23 @@
+{
+  "name": "@mhdawaisrajput/traffic-light-system",
+  "version": "3.0.0",
+  "description": "This is a simple traffic light system using with TypeScript, Inquirer, Node.Js",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Awais",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.3.2"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
